@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Play</string>
+    <string name="introduction"> How to play?\n
+         1. Swipe the trajectory of the shot from the ball to the goal with your finger.\n
+         2. Tap anywhere on the screen to stop the accuracy bar.\n
+         3. A goal is counted if the kick was in the area of the goal and if the pointer on the scale is in the green zone.\n
+         4. The game ends with any failed hit.\n
+         Try to score as many goals as possible)
+    </string>
+</resources>

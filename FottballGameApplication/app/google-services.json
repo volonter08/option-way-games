@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448766129178",
+    "project_id": "plpixxxxx",
+    "storage_bucket": "plpixxxxx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448766129178:android:bf27242f899e5537b44da3",
+        "android_client_info": {
+          "package_name": "pixel.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448766129178-ubdar2cjb4gjl03iuebm0oa7vnbiu7tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANo7SF8l8AT94ViSugIMZNzTO7Q64clkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448766129178-ubdar2cjb4gjl03iuebm0oa7vnbiu7tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

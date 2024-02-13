@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525143128935",
+    "project_id": "ihbie-2429c",
+    "storage_bucket": "ihbie-2429c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525143128935:android:be1caee4644b488615cdc2",
+        "android_client_info": {
+          "package_name": "com.sinoland.wassemble.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApm1hpKM43C1muCUMh7e5XLbJFHHoN1Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

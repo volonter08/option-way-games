@@ -1,0 +1,75 @@
+More cars on the roads — RT, B, RB, LT, ←, RB, LB, RT, LT
+All machines have a Nitro accelerator — ←, Y, RB, LB, ↑, X, Y, ↓, B, LT, LB, LB
+The roads are clogged with "garbage cars" — LT, →, LB, ↑, A, LB, LT, RT, RB, LB, LB, LB
+ATV — ←, ←, ↓, ↓, ↑, ↑, X, B, Y, RB, RT
+Beach Party — ↑, ↑, ↓, ↓, X, B, LB, RB, Y, ↓
+Repaint cars in black — B, LT, ↑, RB, ←, A, RB, LB, ←, B
+Blow up all cars — RT, LT, RB, LB, LT, RT, X, Y, B, Y, LT, LB
+Open the hunt for the main character — ↓, ↑, ↑, ↑, A, RT, RB, LT, LT
+Flying machines — ↑, ↓, LB, RB, LB, →, ←, LB, ←
+Chaos mode — LT, →, LB, Y, →, →, RB, LB, →, LB, LB, LB
+Cloudy weather — LT, ↓, ↓, ←, X, ←, RT, X, A, RB, LB, LB
+Ride on water — →, RT, B, RB, LT, X, RB, RT
+Speed up cars — →, RB, ↑, LT, LT, ←, RB, LB, RB, RB
+Speed up time — B, B, LB, X, LB, X, X, X, LB, Y, B, Y
+Speed up gameplay — Y, ↑, →, ↓, LT, LB, X
+Become a thick — Y, ↑, ↑, ←, →, X, B, ↓
+Flying boat — RT, B, ↑, LB, →, RB, →, ↑, X, Y
+Foggy weather — RT, A, LB, LB, LT, LT, LT, A
+Full Health, Full Armor, $250k — RB, RT, LB, A, ←, ↓, →, ↑, ←, ↓, →, ↑
+" Fun Mode" — Y, Y, LB, X, X, B, X, ↓, B
+Gangs control the streets — LT, ↑, RB, RB, ←, RB, RB, RT, →, ↓
+Get a parachute — ←, →, LB, LT, RB, RT, RT, ↑, ↓, →, LB
+Assassin's weapon — ↓, X, A, ←, RB, RT, ←, ↓, ↓, LB, LB, LB
+Jet aircraft — Y, Y, X, B, A, LB, LB, ↓, ↑
+Endless Cartridges — LB, RB, X, RB, ←, RT, RB, ←, X, ↓, LB, LB
+An endless supply of oxygen,↓, ←, LB, ↓, ↓, RT, ↓, LT, ↓
+Teach to jump high — ↑, ↑, Y, Y, ↑, ↑, ←, →, X, RT, RT
+Enhanced jumps on transport — Y, X, B, B, X, B, B, LB, LT, LT, RB, RT
+Maximum muscle strength — Y, ↑, ↑, ←, →, X, B, ←
+Maximum respect — LB, RB, Y, ↓, RT, A, LB, ↑, LT, LT, LB, LB
+Maximum sexual attractiveness — B, Y, Y, ↑, B, RB, LT, ↑, Y, LB, LB, LB
+The maximum characteristics of the machines are X, LT, A, RB, LT, LT, ←, RB, →, LB, LB, LB
+Change day to night — RT, A, LB, LB, LT, LT, LT, Y
+Orange sky and time stops at 21:00 — ←, ←, LT, RB, →, X, X, LB, LT, A
+Cloudy weather — RT, A, LB, LB, LT, LT, LT, Y
+Aggressive pedestrians — ↓, ←, ↑, ←, A, RT, RB, LT, LB
+Pedestrians walk with weapons — RT, RB, A, Y, A, Y, ↑, ↓
+Pedestrians shoot at the hero — A, LB, ↑, X, ↓, A, LT, Y, ↓, RB, LB, LB
+Ideal transport handling — Y, RB, RB, ←, RB, LB, RT, LB
+All cars are pink — B, LB, ↓, LT, ←, A, RB, LB, →, B
+Rainy weather — RT, A, LB, LB, LT, LT, LT, B
+A set of pedestrians in a gang — ↓, X, ↑, RT, RT, ↑, →, →, ↑
+Free roads — A, ↓, ↑, RT, ↓, Y, LB, Y, ←
+Sandstorm — ↑, ↓, LB, LB, LT, LT, LB, LT, RB, RT
+Lose weight — Y, ↑, ↑, ←, →, X, B, →
+Slow down gameplay — Y, ↑, →, ↓, X, RT, RB
+Summon the Bloodring Banger Machine — ↓, RB, B, LT, LT, A, RB, LB, ←, ←
+Summon a Caddy car — B, LB, ↑, RB, LT, A, RB, LB, B, A
+Bulldozer — RT, LB, LB, →, →, ↑, ↑, A, LB, ←
+Summon the Hotring Racer 1 car — RB, B, RT, →, LB, LT, A, A, X, RB
+Summon the Hotring Racer 2 car — RT, LB, B, →, LB, RB, →, ↑, B, RT
+Summon the Hunter Machine — B, A, LB, B, B, LB, B, RB RT, LT, LB, LB
+To Jetpack — LB, LT, RB, RT, ↑, ↓, ←, →, LB, LT, RB, RT, ↑, ↓, ←, →
+Summon the Monster Truck — →, ↑, RB, RB, RB, ↓, Y, Y, A, B, LB, LB
+Summon a Rancher car — ↑, →, →, LB, →, ↑, X, LT
+Tank — B, B, LB, B, B, B, LB, LT, RB, Y, B, Y
+Summon the Romero car — ↓, RT, ↓, RB, LT, ←, RB, LB, ←, →
+Summon a Stretch machine — RT, ↑, LT, ←, ←, RB, LB, B, →
+Aircraft — B, ↑, LB, LT, ↓, RB, LB, LB, ←, ←, A, Y
+Tanker — RB, ↑, ←, →, RT, ↑, →, X, →, LT, LB, LB
+Garbage truck — B, RB, B, RB, ←, ←, RB, LB, B, →
+Suicide — →, LT, ↓, RB, ←, ←, RB, LB, LT, LB
+Sunny weather — RT, A, LB, LB, LT, LT, LT, X
+Super punches — ↑, ←, A, Y, RB, B, B, B, LT
+Taxis have nitro and jumps — ↑, A, Y, A, Y, A, X, RT, →
+All cars are rustic — Y, ←, X, RT, ↑, LT, ↓, LB, A, LB, LB, LB
+All cars are very fast — ↑, LB, RB, ↑, →, ↑, A, LT, A, LB
+Blow up the transport — LB, LT, LT, ↑, ↓, ↓, ↑, RB, RT, RT
+Hovercraft — Y, Y, X, B, A, LB, LT, ↓, ↓
+Lower the search level — RB, RB, B, RT, ↑, ↓, ↑, ↓, ↑, ↓
+Raise the search level — RB, RB, B, RT, ←, →, ←, →, ←, →
+The sight is self—guided while driving — ↑, ↑, X, LT, →, A, RB, ↓, RT, B
+Set of weapons 1 - RB, RT, LB, RT, ←, ↓, →, ↑, ←, ↓, →, ↑
+Weapon Set 2 — RB, RT, LB, RT, ←, ↓, →, ↑, ←, ↓, ↓, ←
+Weapon Set 3 — RB, RT, LB, RT, ←, ↓, →, ↑, ←, ↓, ↓, ↓

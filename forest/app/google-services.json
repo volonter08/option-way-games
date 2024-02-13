@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206314176195",
+    "project_id": "h22btbbtwo",
+    "storage_bucket": "h22btbbtwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206314176195:android:9e8e2babe799dcf80dec76",
+        "android_client_info": {
+          "package_name": "com.goalkeeper.football.play"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj9pB59P0jIaEdFGoy3Rp1R84yd5_I1ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

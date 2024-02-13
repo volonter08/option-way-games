@@ -1,0 +1,75 @@
+More cars on the roads — R2, X, R1, L2, ←, R1, L1, R2, L2
+All machines have a Nitro accelerator — ←, Triangle, R1, L1, ↑, Square, Triangle, ↓, X, L2, L1, L1
+The roads are clogged with "garbage cars" — L2, →, L1, ↑, X, L1, L2, R2, R1, L1, L1, L1
+ATV — ←, ←, ↓, ↓, ↑, ↑, Square, X, Triangle, R1, R2
+Beach Party — ↑, ↑, ↓, ↓, Square, X, L1, R1, Triangle, ↓
+Repaint cars in black — X, L2, ↑, R1, ←, X, R1, L1, ←, X
+Blow up all cars — R2, L2, R1, L1, L2, R2, Square, Triangle, X, Triangle, L2, L1
+Open the hunt for the main character — ↓, ↑, ↑, ↑, X, R2, R1, L2, L2
+Flying cars — ↑, ↓, L1, R1, L1, →, ←, L1, ←
+Chaos Mode — L2, →, L1, Triangle, →, →, R1, L1, →, L1, L1, L1
+Cloudy weather — L2, ↓, ↓, ←, Square, ←, R2, Square, X, R1, L1, L1
+Ride on water — →, R2, X, R1, L2, Square, R1, R2
+Accelerate the machine — →, R1, ↑, L2, L2, ←, R1, L1, R1, R1
+Speed up Time — X, X, L1, Square, L1, Square, Square, Square, L1, Triangle, X, Triangle
+Speed up gameplay — Triangle, ↑, →, ↓, L2, L1, Square
+Become a thick — Triangle, ↑, ↑, ←, →, Square, X, ↓
+Flying boat — R2, X, ↑, L1, →, R1, →, ↑, Square, Triangle
+Foggy weather — R2, X, L1, L1, L2, L2, L2, X
+Full Health, Full Armor, $250k — R1, R2, L1, X, ←, ↓, →, ↑, ←, ↓, →, ↑
+" Fun Mode" — Triangle, Triangle, L1, Square, Square, X, Square, ↓, X
+Gangs control the streets — L2, ↑, R1, R1, ←, R1, R1, R2, →, ↓
+Get a parachute — ←, →, L1, L2, R1, R2, R2, ↑, ↓, →, L1
+Assassin's Weapon — ↓, Square, X, ←, R1, R2, ←, ↓, ↓, L1, L1, L1
+Jet Plane — Triangle, Triangle, Square, X, X, L1, L1, ↓, ↑
+Infinite Cartridges — L1, R1, Square, R1, ←, R2, R1, ←, Square, ↓, L1, L1
+An endless supply of oxygen,↓, ←, L1, ↓, ↓, R2 ↓, L2, ↓
+Teach to jump high — ↑, ↑, Triangle, Triangle, ↑, ↑, ←, →, Square, R2, R2
+Enhanced BMX Jumps — Triangle, Square, X, X, Square, X, X, L1, L2, L2, R1, R2
+Maximum muscle strength — Triangle, ↑, ↑, ←, →, Square, X, ←
+The maximum of respect is L1, R1, Triangle, ↓, R2, X, L1, ↑, L2, L2, L1, L1
+The maximum of sexual attractiveness is X, Triangle, Triangle, ↑, X, R1, L2, ↑, Triangle, L1, L1, L1
+The maximum characteristics of the machines are Square, L2, X, R1, L2, L2, ←, R1, →, L1, L1, L1
+Convert day to night — R2, X, L1, L1, L2, L2, L2, Triangle
+Orange sky and time stop at 21:00 — ←, ←, L2, R1, →, Square, Square, L1, L2, A
+Cloudy weather — R2, X, L1, L1, L2, L2, L2, Triangle
+Aggressive pedestrians — ↓, ←, ↑, ←, X, R2, R1, L2, L1
+Pedestrians walk with weapons — R2, R1, X, Triangle, X, Triangle, ↑, ↓
+Pedestrians shoot at the hero — X, L1, ↑, Square, ↓, X, L2, Triangle, ↓, R1, L1, L1
+The ideal controllability of transport is a Triangle, R1, R1, ←, R1, L1, R2, L1
+All cars are pink — X, L1, ↓, L2, ←, X, R1, L1, →, X
+Rainy weather — R2, X, L1, L1, L2, L2, L2, X
+A set of pedestrians in a gang — ↓, Square, ↑, R2, R2, ↑, →, →, ↑
+Free roads — X, ↓, ↑, R2, ↓, Triangle, L1, Triangle, ←
+Sandstorm — ↑, ↓, L1, L1, L2, L2, L1, L2, R1, R2
+Lose Weight — Triangle, ↑, ↑, ←, →, Square, X, →
+Slow down gameplay — Triangle, ↑, →, ↓, Square, R2, R1
+Summon the Bloodring Banger Machine — ↓, R1, X, L2, L2, X, R1, L1, ←, ←
+Summon the Caddy car — X, L1, ↑, R1, L2, X, R1, L1, X, A
+Bulldozer — R2, L1, L1, →, →, ↑, ↑, X, L1, ←
+Summon the Hotring Racer 1 car — R1, X, R2, →, L1, L2, X, X, Square, R1
+Summon the Hotring Racer 2 car — R2, L1, X, →, L1, R1, →, ↑, X, R2
+Summon the Hunter Machine — X, X, L1, X, X, L1, X, R1 R2, L2, L1, L1
+To Jetpack — L1, L2, R1, R2, ↑, ↓, ←, →, L1, L2, R1, R2, ↑, ↓, ←, →
+Summon the Monster Truck — →, ↑, R1, R1, R1, ↓, Triangle, Triangle, X, X, L1, L1
+Summon the Rancher machine — ↑, →, →, L1, →, ↑, Square, L2
+Tank — X, X, L1, X, X, X, L1, L2, R1, Triangle, X, Triangle
+Summon the Romero machine — ↓, R2, ↓, R1, L2, ←, R1, L1, ←, →
+Summon the Stretch machine — R2, ↑, L2, ←, ←, R1, L1, X, →
+Plane — X, ↑, L1, L2, ↓, R1, L1, L1, ←, ←, X, Triangle
+Tanker — R1, ↑, ←, →, R2, ↑, →, Square, →, L2, L1, L1
+Garbage truck — X, R1, X, R1, ←, ←, R1, L1, X, →
+Suicide — →, L2, ↓, R1, ←, ←, R1, L1, L2, L1
+Sunny weather — R2, X, L1, L1, L2, L2, L2, SQUARE
+Super Punches — ↑, ←, X, Triangle, R1, X, X, X, L2
+Taxis have nitro and jumps — ↑, X, Triangle, X, Triangle, X, Square, R2, →
+All cars are rustic — Triangle, ←, Square, R2, ↑, L2, ↓, L1, X, L1, L1, L1
+All cars are very fast — ↑, L1, R1, ↑, →, ↑, X, L2, X, L1
+Blow up the transport — L1, L2, L2, ↑, ↓, ↓, ↑, R1, R2, R2
+Hovercraft — Triangle, Triangle, Square, X, X, L1, L2, ↓, ↓
+Lower the search level — R1, R1, X, R2, ↑, ↓, ↑, ↓, ↑, ↓
+Raise the search level — R1, R1, X, R2, ←, →, ←, →, ←, →
+The sight is self—guided while driving - ↑, ↑, Square, L2, →, X, R1, ↓, R2, Circle
+Weapon Set 1 — R1, R2, L1, R2, ←, ↓, →, ↑, ←, ↓, →, ↑
+Weapon Set 2 — R1, R2, L1, R2, ←, ↓, →, ↑, ←, ↓, ↓, ←
+A set of 3 — R1 weapons, R2, L1, R2, ←, ↓, →, ↑, ←, ↓, ↓, ↓
