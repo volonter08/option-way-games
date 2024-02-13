@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702453232306",
+    "project_id": "btsuul",
+    "storage_bucket": "btsuul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702453232306:android:833e8eb2daf48b8f034fab",
+        "android_client_info": {
+          "package_name": "capture.ball.faster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUlLDidKWpDJ5Pv5f-0qw14scRH3ofHr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

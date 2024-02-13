@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071716955024",
+    "project_id": "rajmacach",
+    "storage_bucket": "rajmacach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071716955024:android:2f9d19ee6f56cfeb99f915",
+        "android_client_info": {
+          "package_name": "match.card.challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqa6H9y4bqLVN-dIcVO4Kbt7oPVXNJnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

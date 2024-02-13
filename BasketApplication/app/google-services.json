@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636718167971",
+    "project_id": "fvess-836dc",
+    "storage_bucket": "fvess-836dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636718167971:android:d1c94184761b90633c8c16",
+        "android_client_info": {
+          "package_name": "gahing.tutoril.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEbxCzxEOxi_zZqgeLM7uUWA3XFtMZRQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

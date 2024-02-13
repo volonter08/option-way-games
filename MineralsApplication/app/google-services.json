@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19587584033",
+    "project_id": "luckbadol",
+    "storage_bucket": "luckbadol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19587584033:android:c207cc07e36bb79b90d360",
+        "android_client_info": {
+          "package_name": "hit.big.gold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19587584033-tpb0b6gdce0mms2b0u8bes53bo75ubst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7X4X4uA7UFcqZuqwoblSXE_WZqBuSME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19587584033-tpb0b6gdce0mms2b0u8bes53bo75ubst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

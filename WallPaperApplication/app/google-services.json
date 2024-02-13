@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637163295597",
+    "project_id": "galbadol-2d72e",
+    "storage_bucket": "galbadol-2d72e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637163295597:android:8f025a5b9c9ba52ed04064",
+        "android_client_info": {
+          "package_name": "sports.wallpaper.gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637163295597-8bps71ih5fvu2pl0vse9ceihq5snqmab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk25tR7WjRKAsh7kJ_rhKCKsFV2xpyiaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637163295597-8bps71ih5fvu2pl0vse9ceihq5snqmab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

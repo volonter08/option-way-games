@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804986249053",
+    "project_id": "illot-add40",
+    "storage_bucket": "illot-add40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804986249053:android:5f2c52e4f2c5c16f9812b4",
+        "android_client_info": {
+          "package_name": "winning.spark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804986249053-d1f3c847mio5mvlcc7i42vfilrqua3ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwmOpdt5OSycRYEUnyQY1FD9tvRt1pW3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804986249053-d1f3c847mio5mvlcc7i42vfilrqua3ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

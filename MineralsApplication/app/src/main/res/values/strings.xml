@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Luck</string>
+    <string name="restart">Restart</string>
+    <string name="opponent_ai_human">Opponent: AI / Human</string>
+    <string name="ai">AI</string>
+    <string name="human">Human</string>
+    <string name="tictactoe">TicTacToe</string>
+</resources>

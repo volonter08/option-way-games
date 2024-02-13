@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335519818005",
+    "project_id": "fourbbtttrt",
+    "storage_bucket": "fourbbtttrt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335519818005:android:370da3d92b622e42d5891c",
+        "android_client_info": {
+          "package_name": "live.sports.line"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335519818005-dc0uofv9tr3cv8s8sipth5eti83p3ts8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhllsJPxJvUAD83q1btxEFmgyZTOy4qAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335519818005-dc0uofv9tr3cv8s8sipth5eti83p3ts8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

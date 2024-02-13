@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990962392339",
+    "project_id": "sfvb-bc32a",
+    "storage_bucket": "sfvb-bc32a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990962392339:android:860dc385b33e50afe3cee6",
+        "android_client_info": {
+          "package_name": "com.goalpenalty.soccerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tD-FsSNSNv4AOPkeZiN7Y2gGLVjeYAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

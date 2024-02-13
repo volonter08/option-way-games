@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">4ra</string>
+    <string name="fieldSizeTitle">Field size: %1$d</string>
+    <string name="bombsCountTitle">Bombs count: %1$d</string>
+    <string name="createButtonTitle">Create</string>
+    <string name="restartButtonTitle">Restart</string>
+    <string name="winButtonTitle">Win</string>
+    <string name="loseButtonTitle">Lose</string>
+    <string name="recordMenuTitle">Records</string>
+    <string name="recordFieldSizeColumnTitle">Size</string>
+    <string name="recordBombsCountColumnTitle">Bombs</string>
+    <string name="recordTimeColumnTitle">Time</string>
+</resources>

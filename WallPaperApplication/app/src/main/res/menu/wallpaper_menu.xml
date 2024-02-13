@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:popupElevation = "5dp"
+    >
+    <item
+        android:id="@+id/put_wallpaper"
+        android:title="@string/put_wallpaper_on_desktop"
+        >
+    </item>
+</menu>

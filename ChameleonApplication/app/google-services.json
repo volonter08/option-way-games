@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921085843433",
+    "project_id": "ftfomda",
+    "storage_bucket": "ftfomda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921085843433:android:d9509e3030031dd8d25d78",
+        "android_client_info": {
+          "package_name": "tiger.collecting.coins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921085843433-9ss7hds6dv1h9v9a5v6upr9u0bdb8t7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB04wEwx0TQT0M6s_1VhUy4LiHTTDWPKUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921085843433-9ss7hds6dv1h9v9a5v6upr9u0bdb8t7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

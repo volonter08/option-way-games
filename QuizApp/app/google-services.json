@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412794194979",
+    "project_id": "threhrhethre",
+    "storage_bucket": "threhrhethre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412794194979:android:f68bc248b798e179d1f596",
+        "android_client_info": {
+          "package_name": "seasons.major.victories"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCz0oFPLAVmvJT1imoU_45AQ2GORnXA7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Apuestas</string>
+    <string name="goals">Goals:&#160;</string>
+    <string name="points">Points:&#160;</string>
+    <string name="round">ROUND&#160;</string>
+
+    <string name="new_record_alert">NEW RECORD!&#160;</string>
+    <string name="n_round">You reach %d round!</string>
+    <string name="n_points">%d points!</string>
+    <string name="get_money">You get &#120680; %d</string>
+    <string name="no_money">You do not get points for the last game!</string>
+
+    <string name="round_record">Reached round:</string>
+    <string name="points_record">Max count of points:</string>
+
+    <string name="stats">Stats</string>
+
+    <string name="alert">GOOOOAL!</string>
+    <string name="alert2">MISS!</string>
+    <string name="alert3">DID NOT ARRIVE!</string>
+    <string name="alert4">THE BALL IS KICKED!</string>
+    <string name="alert5">GAME OVER</string>
+    <string name="alert6">BARBELL!</string>
+</resources>

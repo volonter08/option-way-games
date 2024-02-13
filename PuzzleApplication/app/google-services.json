@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65657706415",
+    "project_id": "stss-38502",
+    "storage_bucket": "stss-38502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65657706415:android:8a88b55aa04c888318015a",
+        "android_client_info": {
+          "package_name": "winners.mobile.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWMAXrzzwFemcEu_3XTUy-pU6zW4gWejc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

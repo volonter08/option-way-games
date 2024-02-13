@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49493449833",
+    "project_id": "aajogogogo",
+    "storage_bucket": "aajogogogo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49493449833:android:1ddd85b8cb47f94ff8d6f8",
+        "android_client_info": {
+          "package_name": "com.expensive.money"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ78GpE99QrkBh0HlT8bAF-bu61stp_Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

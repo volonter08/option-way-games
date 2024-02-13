@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/settings"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/colorAccent"
+    tools:context="com.fiedler.edward.game.Settings">
+
+
+    <TextView
+        android:text="Music   "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="134dp"
+        android:id="@+id/textMusic"
+        android:textSize="20dp"
+        android:layout_alignTop="@+id/toggleButton2"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/toggleButton2"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/black"
+        android:gravity="center" />
+
+    <ToggleButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="134dp"
+        android:id="@+id/toggleButton2"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/textMusic"
+        android:textStyle="normal|bold"
+        android:textSize="16dp"
+        android:checked="true" />
+
+    <Button
+        android:text="SAVE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="95dp"
+        android:id="@+id/buttonSave"
+        android:textSize="20dp"
+        android:layout_below="@+id/textMusic"
+        android:layout_toStartOf="@+id/toggleButton2" />
+
+    <Button
+        android:text="Cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/buttonSave"
+        android:layout_toEndOf="@+id/buttonSave"
+        android:id="@+id/buttonCancel"
+        android:textSize="20dp" />
+</RelativeLayout>
